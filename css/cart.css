@@ -1,0 +1,23 @@
+/* cart.css */
+
+/* General Styles for Cart Page */
+.cart {
+    padding: 20px;
+    text-align: center;
+    background: #f9f9f9;
+  }
+  
+  .cart-table {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 20px;
+    border-collapse: collapse;
+    text-align: left;
+  }
+  
+  .cart-summary {
+    text-align: right;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  

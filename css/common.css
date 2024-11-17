@@ -1,0 +1,21 @@
+/* common.css */
+
+/* Common Styles for All Pages */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .btn {
+    background-color: #ff9800;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #e68a00;
+  }
+  
